@@ -1,2 +1,1 @@
-# bootstrap-website
-A simple bootstrap responsive website
+TinDog Starting Files
